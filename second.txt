@@ -1,3 +1,7 @@
 second file
 blue
+<<<<<<< HEAD
 222
+=======
+2
+>>>>>>> develop
